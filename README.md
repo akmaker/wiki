@@ -2,6 +2,9 @@
 
 Public documents and standards
 
+## book
+* [智能路由器开发指南](http://openwrt.bjbook.net/)
+
 ## Hardware
 * Raspberry pi 3 B+
 
