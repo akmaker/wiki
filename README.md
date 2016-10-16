@@ -7,7 +7,6 @@ Public documents and standards
 
 ## Labs
 - [ ] port openresty to lede [@Akagi201][Akagi201]
-- [ ] port node.js to lede [@Akagi201][Akagi201]
 - [ ] pack go program to lede [@Akagi201][Akagi201]
 - [ ] pack rust program to lede [@Akagi201][Akagi201]
 
