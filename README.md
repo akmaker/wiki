@@ -7,6 +7,7 @@ Public documents and standards
 
 ## Labs
 - [ ] port openresty to lede [@Akagi201][Akagi201]
+- [ ] port [lapis](https://github.com/leafo/lapis) to lede [@Akagi201][Akagi201]
 - [ ] pack go program to lede [@Akagi201][Akagi201]
 - [ ] pack rust program to lede [@Akagi201][Akagi201]
 
