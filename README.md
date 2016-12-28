@@ -13,7 +13,7 @@ Public documents and standards
 - [ ] port [lapis](https://github.com/leafo/lapis) to lede [@Akagi201][Akagi201]
 - [ ] pack go program to lede [@Akagi201][Akagi201]
 - [ ] pack rust program to lede [@Akagi201][Akagi201]
-- [ Done ] port ngrok client into lede, re-write it with pure C [@qianguozheng][qianguozheng]
+- [\*] port ngrok client into lede, re-write it with pure C [@qianguozheng][qianguozheng]
 - [ ] design the server-client communication protocol [@qianguozheng][qianguozheng]
 - [ ] implement client-side of communication protocol [@qianguozheng][qianguozheng]
 
